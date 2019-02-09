@@ -1,3 +1,4 @@
+//from master
 #include<stdio.h>
 float log1 (float a)
 {
